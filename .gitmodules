@@ -1,0 +1,3 @@
+[submodule "geozoom"]
+	path = geozoom
+	url = https://github.com/hunterbridges/jquery-geozoom
