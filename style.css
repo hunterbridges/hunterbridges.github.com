@@ -94,9 +94,9 @@ p {
 a.dribbble-button {
   position:relative;
   padding:2px 5px 2px 22px;
-  height:13px;
+  height:14px;
   margin:0;
-  line-height:13px;
+  line-height:15px;
   font-size:11px;
   font-weight:bold;
   color:#666;
@@ -127,7 +127,7 @@ a.dribbble-button i {
   position:absolute;
   height:14px;
   width:14px;
-  top:1px;
+  top:2px;
   left:4px;
   background-image:url('images/dribbble.png');
   background-repeat:no-repeat;
