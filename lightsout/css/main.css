@@ -1,0 +1,88 @@
+html, body {
+  height:100%;
+  width:100%;
+}
+
+body {
+  font-family: Georgia, serif;
+  color:black;
+  font-size:10px;
+  margin:0;
+}
+
+p { margin-top:1.5em; }
+h1, h2, h3 { margin:0; }
+h1 { font-size:2.0em; }
+h2 { font-size:1.6em; }
+h3 { font-size:1.2em; }
+
+#window {
+  height:100%;
+  width:100%;
+  overflow:hidden;
+  padding:2.0em;
+  box-sizing:border-box;
+  -webkit-transform-style:preserve-3d;
+}
+
+#rotation {
+  position:relative;
+  -webkit-transition:-webkit-transform 0.5s cubic-bezier(0, 0, .09, 1);
+  -webkit-transform-origin:0 0;
+}
+
+#rotation.T01_too_nice {
+  -webkit-transform: rotate(90deg) translate(0, -132em) scale(2);
+}
+
+#rotation.T02_amenities_extremities {
+  -webkit-transform: rotate(180deg) translate(-62em, -56em) scale(0.5);
+}
+
+#rotation.T03_blunt_trauma {
+  -webkit-transform:rotate(270deg) translate(-125em, -114em) scale(1);
+}
+
+ul#sections {
+  list-style-type:none;
+  margin:0;
+  padding:0;
+}
+
+ul#sections li {
+  width:40.0em;
+  position:absolute;
+  top:0;
+  left:0;
+  color:#ccc;
+  -webkit-transition:color 0.5s;
+  -webkit-transform-origin:50% 50%;
+  background-color:#fff;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+ul#sections li.current {
+  color:#000;
+}
+
+ul#sections li p {
+  line-height:1.5em;
+  font-size:1.4em;
+}
+
+ul#sections li#intro {
+}
+
+ul#sections li#T01_too_nice {
+  -webkit-transform: rotate(-90deg) translate(-30.0em, -7.0em) scale(0.5);
+}
+
+ul#sections li#T02_amenities_extremities {
+  -webkit-transform: rotate(180deg) translate(-64em, 0) scale(2);
+}
+
+ul#sections li#T03_blunt_trauma {
+  -webkit-transform: rotate(90deg) translate(87em, -57em) scale(1);
+}
+
+
