@@ -20,6 +20,8 @@ a, a:link, a:visited {
 
   -moz-transition:all 0.25s ease-in-out;
   -webkit-transition:all 0.25s ease-in-out;
+  -o-transition:all 0.25s ease-in-out;
+  -ms-transition:all 0.25s ease-in-out;
   transition:all 0.25s ease-in-out;
   margin-right:0.2em;
 }
@@ -27,6 +29,8 @@ a, a:link, a:visited {
 a:hover {
   -moz-transform:translate(-9px,-9px);
   -webkit-transform:translate(-9px,-9px);
+  -o-transform:translate(-9px,-9px);
+  -ms-transform:translate(-9px,-9px);
   transform:translate(-9px,-9px);
   text-shadow:1px 1px 0px white, 2px 2px 0px, 3px 3px 0px white,4px 4px 0px, 5px 5px 0px white,6px 6px 0px,7px 7px 0px white,8px 8px 0px;
   border-bottom:8px transparent;
