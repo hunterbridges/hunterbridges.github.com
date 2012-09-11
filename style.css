@@ -17,20 +17,15 @@ a, a:link, a:visited {
 	text-decoration:none;
   color:#333;
 
-  -webkit-text-shadow:0px 0px 0px #333;
-  -moz-text-shadow:0px 0px 0px #333;
-  text-shadow:0px 0px 0px #333;
   -moz-transition:all 0.25s ease-in-out;
   -webkit-transition:all 0.25s ease-in-out;
   transition:all 0.25s ease-in-out;
 }
 
 a:hover {
-  top:-4px;
-  left:-4px;
-  -webkit-text-shadow:4px 4px 0px #444;
-  -moz-text-shadow:4px 4px 0px #444;
-  text-shadow:4px 4px 0px #444;
+  top:-9px;
+  left:-9px;
+  text-shadow:1px 1px 0px white, 2px 2px 0px, 3px 3px 0px white,4px 4px 0px, 5px 5px 0px white,6px 6px 0px,7px 7px 0px white,8px 8px 0px;
 }
 
 a#twitter {
