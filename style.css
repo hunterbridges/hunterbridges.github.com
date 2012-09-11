@@ -13,19 +13,24 @@ body {
 }
 
 a, a:link, a:visited {
-  position:relative;
+  display:block;
+  float:left;
 	text-decoration:none;
   color:#333;
 
   -moz-transition:all 0.25s ease-in-out;
   -webkit-transition:all 0.25s ease-in-out;
   transition:all 0.25s ease-in-out;
+  margin-right:0.2em;
 }
 
 a:hover {
-  top:-9px;
-  left:-9px;
+  -moz-transform:translate(-9px,-9px);
+  -webkit-transform:translate(-9px,-9px);
+  transform:translate(-9px,-9px);
   text-shadow:1px 1px 0px white, 2px 2px 0px, 3px 3px 0px white,4px 4px 0px, 5px 5px 0px white,6px 6px 0px,7px 7px 0px white,8px 8px 0px;
+  border-bottom:8px transparent;
+  border-right:8px transparent;
 }
 
 a#twitter {
