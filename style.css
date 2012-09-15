@@ -23,7 +23,7 @@ a, a:link, a:visited {
   -o-transition:all 0.25s ease-in-out;
   -ms-transition:all 0.25s ease-in-out;
   transition:all 0.25s ease-in-out;
-  margin-right:0.2em;
+  margin-right:0.3em;
 }
 
 a:hover {
@@ -47,6 +47,10 @@ a#wantful {
 
 a#trigger_man {
   color: #9f0000;
+}
+
+a#lights_out {
+  color: #7d8cc3;
 }
 
 a#supp {
