@@ -58,11 +58,19 @@ a#snapguide {
 }
 
 a#supp {
-  color: #f6c093;
+  color: #c70000;
 }
 
 a#meedeor {
   color: #c9c9c9;
+}
+
+a#chiprewards {
+  color: #95c954;
+}
+
+a#aloompa {
+  color: #f9b378;
 }
 
 p {
