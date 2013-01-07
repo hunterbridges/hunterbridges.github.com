@@ -82,8 +82,8 @@ benefit of open air. The signal-to-noise ratio has never been lower, and all
 the whining is making it worse. To add to our problems, the generations who say
 we have nothing to contribute are the people writing our paychecks.
 Right now, a crowd of twentysomethings is trying to break into the old-guard
-industries. To keep their his or her job, any young journalist would be
-willing to sputter some bullshit about the latest “Call Me Maybe.”
+industries. Any young journalist would be willing to sputter some bullshit about
+the latest “Call Me Maybe” if the choice were between that and losing his or her job.
 In my opinion, that is a fair compromise. We want to have taste, we want to
 produce something meaningful, but we have to work inside the machine.
 It feels like the machine is conspiring against us.
