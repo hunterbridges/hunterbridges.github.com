@@ -81,7 +81,9 @@ the whining makes it worse). A crowd of twentysomethings is trying to break into
 the old-guard world of journalism. To keep their jobs, all of them would be
 willing to sputter some bullshit about the latest “Call Me Maybe.”
 In my opinion, that is a fair compromise. The generations who say we have
-nothing to contribute are the people writing our paychecks.
+nothing to contribute are the people writing our paychecks. We want to
+have taste, we want to produce something meaningful, but it feels like the
+world is conspiring against us.
 
 <div align="center">〜</div>
 
