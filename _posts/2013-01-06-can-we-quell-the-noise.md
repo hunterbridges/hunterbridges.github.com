@@ -20,7 +20,8 @@ that the decade saw an emergence of self-proclaimed “stylists” or “editors
 Finally, rapid development in information technology has made troves of
 historical material accessible to those wannabe stylists, and that same
 technology has positioned them to remix our beloved Western culture into
-oblivion.
+oblivion. In Andersen’s eyes, our generation is drunk with nostalgia.
+Looking back is distracting us from looking ahead.
 
 I found those notions intriguing, but I wasn’t satisfied. I have spent a while
 observing the music industry, though not as microscopically as some of my peers.
@@ -28,14 +29,24 @@ I believe the music industry can help to inform us of our culture state,
 and I admit it’s not the whole picture. I have tried to pay more attention to the
 music industry’s cultural aspects than to the money, but the harshest fact I’ve
 learned is that there is some big, tasteless money out there. But for that dumb
-money to be there, it had to come from somewhere, right?
+money to be there, somebody had to give it to them.
 
-Andersen also makes the assertion that corporations have become very good at
+So why did the faceless mass buy into it? I fancy myself a creative person,
+so I turned the question inward. Why do I create art? Why do
+I seek out good material? Why is it so important to decide which music, books,
+and films I enjoy? Those are simpler questions. I do all that to express myself.
+I express myself because it shapes my identity and justifies my existence. There
+are more reasons, but I feel those are the elemental ones I share with
+every other creative person. Having a shaped identity and a justified
+existence is a nice idea, so I can’t blame anyone for desiring self-expression.
+
+Andersen makes the assertion that corporations have become very good at
 commoditizing “creative” wares. Corporations tend to optimize their
 goods for their market. They make the most money by providing the lowest-cost
-viable product that sells to the most number of people. In the arts,
-most consumers have not developed their taste to the point where they know
-what truly pleases them, but are quick to identify what they dislike. In creative
+viable product that sells to the most number of people. People want creative
+products because it makes them feel creative. In the arts, most consumers have
+not developed their taste to the point where they know what truly pleases them,
+however they are quick to identify what they dislike. In creative
 commodities, purchasibility is opposite of displeasure. So, corporations exist
 in the world whose goal it is to produce the “art” that offends the least number
 of people. There’s a market for it. It’s just business.
@@ -52,16 +63,6 @@ People who didn’t value culture at all were finally able to consume it for a
 cost they were satisfied with: zero. The ability to mold their tasteless brains
 into blind advocates still proved valuable for the corporations, who were in a
 better position than anyone to claim the territory. Obviously they moved in.
-
-So why did the faceless mass buy into it? I fancy myself a creative person,
-so I turned the question inward. Why do I create art? Why do
-I seek out good material? Why is it so important to decide which music, books,
-and films I enjoy? Those are simpler questions. I do all that to express myself.
-I express myself because it shapes my identity and justifies my existence. There
-are more reasons, but I feel those are the elemental ones I share with
-every other creative person. Having a shaped identity and a justified
-existence is kind of nice too, so I really can’t blame anyone for desiring
-self-expression.
 
 <div align="center">〜</div>
 
@@ -84,21 +85,21 @@ Right now, a crowd of twentysomethings is trying to break into the old-guard
 industries. To keep their his or her job, any young journalist would be
 willing to sputter some bullshit about the latest “Call Me Maybe.”
 In my opinion, that is a fair compromise. We want to have taste, we want to
-produce something meaningful, but we have to work within the machine.
-It feels like the world is conspiring against us.
+produce something meaningful, but we have to work inside the machine.
+It feels like the machine is conspiring against us.
 
 <div align="center">〜</div>
 
 Despite all of this, there is hope. I see potential. I see opportunity.
 I see intimidation in the eyes of those who look at the tools the next
 culturally significant generation will wield. We could very well be that
-generation, if we’re up to it.
+generation… if we’re up to it.
 
 I agree with Wampole in that I believe the hipster phenomenon is
 unsustainable. I disagree with Andersen and don’t think our culture is in
 decline. The rapid development of technology represents undiscovered territory,
-and corporations aren’t moving fast enough to keep up. It is possible for us to
-develop keener eyes and more sensitive ears, and for us to use our new
+and corporations aren’t accelerating rapidly enough to keep up. It is possible
+for us to develop keener eyes and more sensitive ears, and for us to use our new
 technologies to filter and dissemminate. Good stuff is out there, the challenge
 is that it is too difficult for many people to tell which is which.
 
