@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: On Our Unfortunate Age of Irony
-description:
+description: An observation of the challenges Generation Y faces in its attempt to leave a mark on cultural history.
 ---
 Last year I saw two editorials come about. They concerned the state of modern
 culture in America. In the published responses that followed, and through the
