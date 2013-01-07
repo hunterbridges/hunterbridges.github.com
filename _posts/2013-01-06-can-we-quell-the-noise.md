@@ -1,11 +1,11 @@
 ---
 layout: entry
-title: On Our Unfortunate Age of Irony
+title: Can We Quell The Noise?
 description: An observation of the challenges Generation Y faces in its attempt to leave a mark on cultural history.
 ---
 Last year I saw two editorials come about. They concerned the state of modern
 culture in America. In the published responses that followed, and through the
-social media ripple beyond those, a provoking argument emerged. It says that
+social media ripple beyond, a provoking argument emerged. It says that
 Generation Y’s potential for contributing to cultural history will be lost in a
 flood of derivation and irony. The worst case is that the effect lasts for
 generations to come.
@@ -16,22 +16,23 @@ I read the first article last January, Kurt Andersen’s [“You
 Say You Want a Devolution?”](http://www.vanityfair.com/style/2012/01/prisoners-of-style-201201)
 for Vanity Fair. Andersen brought forth some interesting ideas. The
 first was that 2000s-era culture became increasingly remix-driven. Second,
-that decade saw an emergence of self-proclaimed “stylists” or “editors.” Finally,
-rapid development in information technology has made troves of historical
-material accessible to those wannabe stylists, and that same technology
-has positioned them to remix our beloved Western culture into oblivion.
+that the decade saw an emergence of self-proclaimed “stylists” or “editors.”
+Finally, rapid development in information technology has made troves of
+historical material accessible to those wannabe stylists, and that same
+technology has positioned them to remix our beloved Western culture into
+oblivion.
 
 I found those notions intriguing, but I wasn’t satisfied. I have spent a while
 observing the music industry, though not as microscopically as some of my peers.
 I believe the music industry can help to inform us of our culture state,
 and I admit it’s not the whole picture. I have tried to pay more attention to the
 music industry’s cultural aspects than to the money, but the harshest fact I’ve
-learned is that there is some big tasteless money out there. But for that dumb
+learned is that there is some big, tasteless money out there. But for that dumb
 money to be there, it had to come from somewhere, right?
 
 Andersen also makes the assertion that corporations have become very good at
 commoditizing “creative” wares. Corporations tend to optimize their
-goods for their market. They make the most money by providing the lowest cost
+goods for their market. They make the most money by providing the lowest-cost
 viable product that sells to the most number of people. In the arts,
 most consumers have not developed their taste to the point where they know
 what truly pleases them, but are quick to identify what they dislike. In creative
@@ -40,7 +41,7 @@ in the world whose goal it is to produce the “art” that offends the least nu
 of people. There’s a market for it. It’s just business.
 
 The recording industry is young. About a century ago, wax cylinder
-gramophones were disrupting the sheet music industry. Then and there was a
+gramophones were disrupting the sheet music industry. That was a
 turning point. The only way to consume sheet music was by reading and performing
 it, or at least having someone around who could. Those talents required
 aristocratic training. With recordings, those barriers were gone. The privilege
@@ -69,21 +70,22 @@ by Christy Wampole of the New York Times. It exhibited a more targeted idea:
 the internet has enabled members of Generation Y to become comfortable
 expressing themselves through irony. The tentpole of this ironic culture is,
 of course, **the hipster**. Wampole acknowledges the same nostalgic infatuation
-among the guilty as Andersen. In her conclusion, Wampole makes a plea for
+among the guilty as Andersen. In her conclusion, she makes a plea for
 Gen-Y’ers to repair our inviable culture, as it “equals a surrender to
 commercial and political entities.” I believe she did not properly find
-where Generation Y’s culture truly lies. I haven’t found it either.
+where Generation Y’s culture truly lies. We haven’t found it either.
 
-Admittedly, Generation Y is at a slight disdvantage. As our generation has
-entered into what is supposed to be our cultural prime, we don’t have the
-benefit of open air.  The signal-to-noise ratio has never been lower (And all
-the whining makes it worse). A crowd of twentysomethings is trying to break into
-the old-guard world of journalism. To keep their jobs, all of them would be
+Admittedly, Generation Y is at a disdvantage. While our generation has
+entered into what is supposed to be our cultural prime, we haven’t had the
+benefit of open air. The signal-to-noise ratio has never been lower, and all
+the whining is making it worse. To add to our problems, the generations who say
+we have nothing to contribute are the people writing our paychecks.
+Right now, a crowd of twentysomethings is trying to break into the old-guard
+industries. To keep their his or her job, any young journalist would be
 willing to sputter some bullshit about the latest “Call Me Maybe.”
-In my opinion, that is a fair compromise. The generations who say we have
-nothing to contribute are the people writing our paychecks. We want to
-have taste, we want to produce something meaningful, but it feels like the
-world is conspiring against us.
+In my opinion, that is a fair compromise. We want to have taste, we want to
+produce something meaningful, but we have to pay our bills. It feels like
+the world is conspiring against us.
 
 <div align="center">〜</div>
 
@@ -92,10 +94,10 @@ I see intimidation in the eyes of those who look at the tools the next
 culturally significant generation will wield. We could very well be that
 generation, if we’re up to it.
 
-I agree with Wampole in that I believe the hipster phenomenon to be
-unsustainable, but I disagree with Andersen and don’t think our culture is in
+I agree with Wampole in that I believe the hipster phenomenon is
+unsustainable. I disagree with Andersen and don’t think our culture is in
 decline. The rapid development of technology represents undiscovered territory,
-and corporations won’t move fast enough to keep up. It is possible for us to
+and corporations aren’t moving fast enough to keep up. It is possible for us to
 develop keener eyes and more sensitive ears, and for us to use our new
 technologies to filter and dissemminate. Good stuff is out there, the challenge
 is that it is too difficult for many people to tell which is which.
@@ -107,8 +109,8 @@ awful taste, so perhaps it is not so important that we all be a curator.
 Aspirational taste should not represent a way to gain status, it should
 represent an intimidating burden and responsibility to our peers.
 
-If we don’t take advantage of this opportunity, Western culture will still
-stand. The next generation will come along, perhaps the one after them,
+If we don’t take advantage of this opportunity, Western culture will live on.
+The next generation will come along, perhaps the one after them,
 and they will see the same landscape. They will see that in our fervent
 pretentiousness we individually failed to be humble, and as a generation failed
 to contribute to a greater cultural whole. They won’t make the same mistakes.
