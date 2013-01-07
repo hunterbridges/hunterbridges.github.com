@@ -1,6 +1,6 @@
 ---
 layout: entry
-title: Can We Quell The Noise?
+title: Can Generation Y Quell The Noise?
 description: An observation of the challenges Generation Y faces in its attempt to leave a mark on cultural history.
 ---
 Last year I saw two editorials come about. They concerned the state of modern
