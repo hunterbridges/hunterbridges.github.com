@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+        xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+	<head>
+    <meta property="og:title" content="Hunter Bridges {% if page.title %} - {{ page.title }} {% endif %}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://hunterbridges.com/{{ page.url }}" />
+    <meta property="og:site_name" content="Hunter Bridges" />
+    <meta property="fb:admins" content="1005120022" />
+
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>Hunter Bridges {% if page.title %} - {{ page.title }} {% endif %}</title>
+    <META name="description"
+    content="{% if page.description %}{{ page.description }}{% else %}Hunter is a musician and programmer who lives in San Francisco.{% endif %}" />
+		<meta name="google-site-verification" content="fxPVxsMKgPsr1c3WuEcwj9i1BpBHF89hunzxdCvC4hw" />
+		<link rel="stylesheet" type="text/css" href="/style.css" />
+	</head>
+	<body>
+    <div id="name">
+      <a id="twitter" class="popout" href="http://twitter.com/hunterbridges">@</a>
+      <a id="myname" class="popout" href="/">Hunter Bridges</a>
+      <div class="clearfix"></div>
+    </div>
+    <div id="content">
+      {{content}}
+    </div>
+    {% if page.social %}
+    <div id="fb-root"></div>
+    {% endif %}
+		<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-4703198-8']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    </script>
+    {% if page.social %}
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=270728359615332";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    {% endif %}
+	</body>
+</html>

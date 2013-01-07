@@ -1,15 +1,20 @@
 @charset "UTF-8";
 html {
   height:100%;
-  font-size:100px;
 }
 
 body {
 	background-color:white;
 	font-family:Helvetica, Arial, sans-serif;
 	font-size:1.0em;
-	margin:48px;
+	margin:0;
+  padding:48px;
   font-weight:bold;
+  color:#333;
+}
+
+.clearfix {
+  clear:both;
 }
 
 a, a:link, a:visited {
@@ -26,7 +31,7 @@ a, a:link, a:visited {
   margin-right:0.3em;
 }
 
-a:hover {
+a.popout:hover {
   -moz-transform:translate(-9px,-9px);
   -webkit-transform:translate(-9px,-9px);
   -o-transform:translate(-9px,-9px);
@@ -37,12 +42,49 @@ a:hover {
   border-right:8px transparent;
 }
 
+div#name {
+  font-size:100px;
+}
+
+div.work {
+  font-size:72px;
+  width:80%;
+}
+
+ul.posts {
+  list-style-type:none;
+  margin:0;
+  padding:0;
+}
+
+ul.posts li {
+  padding:0.25em 0 0 0;
+  font-size:36px;
+}
+
+ul.posts li a {
+  float:none;
+  color:#000099;
+}
+
+h3 {
+  padding-top:1em;
+  color:#333;
+  font-size:20px;
+  margin:0;
+}
+
 a#twitter {
   color:#9AE4E8;
+  margin-right:0;
+}
+
+a#myname {
+  color:#333;
 }
 
 a#wantful {
-  color: #000;
+  color: #333;
 }
 
 a#trigger_man {
@@ -73,9 +115,99 @@ a#aloompa {
   color: #f9b378;
 }
 
-p {
-	line-height:1.25em;
-  margin:0;
-  width:80%;
+h2.entry_title {
+  font-size:48px;
+  font-family:Georgia, Times, serif;
+  font-style:italic;
+  font-weight:normal;
+  margin-top:0.5em;
+  margin-bottom:0;
 }
 
+.entry {
+  margin:0 102px;
+}
+
+.entry a {
+  float:none;
+  display:inline;
+}
+
+.entry a:hover {
+  border-bottom:1px dotted;
+}
+
+h4.entry_date {
+  font-size:16px;
+  margin:0;
+  font-weight:normal;
+}
+
+.entry a {
+  color:#999;
+  -moz-transition:all 0s;
+  -webkit-transition:all 0s;
+  -o-transition:all 0s;
+  -ms-transition:all 0s;
+  transition:all 0s;
+}
+
+.entry_body {
+  font-weight:normal;
+  max-width:640px;
+  line-height:1.6em;
+}
+
+
+.entry_body p:first-child:first-letter {
+  float: left;
+  font-size: 5.25em;
+  line-height: 0.9em;
+  padding-right: 3px;
+  padding-left: 3px;
+  font-family: Georgia;
+}
+
+.entry_body * {
+  clear:left;
+}
+
+@media screen and (max-width: 960px) {
+  div#name {
+    font-size:48px;
+  }
+
+  div.work {
+    font-size:24px;
+  }
+
+  ul.posts li {
+    font-size:24px;
+  }
+
+  h3 {
+    font-size:16px;
+  }
+
+  a {
+    float:none !important;
+  }
+
+  a#twitter {
+    float:left !important;
+  }
+
+  .entry {
+    margin:0 48px;
+  }
+
+  h2.entry_title {
+    font-size:24px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .entry {
+    margin:0 0;
+  }
+}

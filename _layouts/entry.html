@@ -1,0 +1,18 @@
+---
+layout: default
+social: 1
+---
+<div class="entry">
+<h2 class="entry_title">{{page.title}}</h2>
+<h4 class="entry_date">
+  <a href="{{page.url}}">{{page.date | | date: "%d %b %Y"}}</a>
+</h4>
+<div class="entry_body">
+{{content}}
+</div>
+<p class="social">
+<div class="fb-like" data-send="true" data-layout="button_count" data-width="450" data-show-faces="false"></div>
+<div style="height:0.5em"></div>
+<a href="https://twitter.com/share" class="twitter-share-button" data-text="“{{page.title}}”" data-via="HunterBridges" data-url="http://hunterbridges.com/{{page.url}}" data-count="horizontal" data-lang="en">Tweet</a>
+</p>
+</div>
