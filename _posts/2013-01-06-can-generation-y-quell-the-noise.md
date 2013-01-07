@@ -7,7 +7,7 @@ Last year I saw two editorials come about. They concerned the state of modern
 culture in America. In the published responses that followed, and through the
 social media ripple beyond, a provoking argument emerged. It says that
 Generation Y’s potential for contributing to cultural history will be lost in a
-flood of derivation and irony. The worst case is that the effect lasts for
+flood of derivation and irony. The worst case is the effect lasting for
 generations to come.
 
 <div align="center">〜</div>
