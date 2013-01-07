@@ -89,14 +89,16 @@ world is conspiring against us.
 
 Despite all of this, there is hope. I see potential. I see opportunity.
 I see intimidation in the eyes of those who look at the tools the next
-culturally significant generation will wield. I agree with Wampole in that I
-believe the hipster phenomenon to be unsustainable, but I disagree with
-Andersen and don’t think our culture is in decline. The rapid development of
-technology represents undiscovered territory, and corporations won’t move fast
-enough to keep up. It is possible for us to develop keener eyes and more
-sensitive ears, and for us to use these new tools to filter and dissemminate.
-Good stuff is out there, the challenge is that it is too difficult for many
-people to tell which is which.
+culturally significant generation will wield. We could very well be that
+generation, if we’re up to it.
+
+I agree with Wampole in that I believe the hipster phenomenon to be
+unsustainable, but I disagree with Andersen and don’t think our culture is in
+decline. The rapid development of technology represents undiscovered territory,
+and corporations won’t move fast enough to keep up. It is possible for us to
+develop keener eyes and more sensitive ears, and for us to use our new
+technologies to filter and dissemminate. Good stuff is out there, the challenge
+is that it is too difficult for many people to tell which is which.
 
 Individually, we can’t be too proud. That is a large problem we’re
 fighting against. For one person self-expression is justified, but building
