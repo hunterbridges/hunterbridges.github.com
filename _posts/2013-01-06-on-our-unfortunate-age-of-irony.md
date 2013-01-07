@@ -68,7 +68,7 @@ In November, I read [“How to Live Without Irony”](http://opinionator.blogs.n
 by Christy Wampole of the New York Times. It exhibited a more targeted idea:
 the internet has enabled members of Generation Y to become comfortable
 expressing themselves through irony. The tentpole of this ironic culture is,
-of course, **the hipster**. She acknowledges the same nostalgic infatuation
+of course, **the hipster**. Wampole acknowledges the same nostalgic infatuation
 among the guilty as Andersen. In her conclusion, Wampole makes a plea for
 Gen-Y’ers to repair our inviable culture, as it “equals a surrender to
 commercial and political entities.” I believe she did not properly find
