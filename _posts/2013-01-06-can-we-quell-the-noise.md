@@ -84,8 +84,8 @@ Right now, a crowd of twentysomethings is trying to break into the old-guard
 industries. To keep their his or her job, any young journalist would be
 willing to sputter some bullshit about the latest “Call Me Maybe.”
 In my opinion, that is a fair compromise. We want to have taste, we want to
-produce something meaningful, but we have to pay our bills. It feels like
-the world is conspiring against us.
+produce something meaningful, but we have to work within the machine.
+It feels like the world is conspiring against us.
 
 <div align="center">〜</div>
 
